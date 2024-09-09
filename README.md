@@ -3,7 +3,7 @@
 
 This project implements a robust person detection and tracking system using YOLOv8 for object detection and DeepSORT for multi-object tracking. The system processes video files, detects people, and tracks their movements across frames, assigning unique IDs to each tracked individual. This project is designed to run in a Google Colab environment.
 
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_sq6Z84Ln7Y/0.jpg)](https://www.youtube.com/watch?v=_sq6Z84Ln7Y)
 
 ## Table of Contents
 
